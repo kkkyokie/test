@@ -1,4 +1,4 @@
-```lua
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
@@ -200,4 +200,3 @@ end)
 if dropGui.Enabled then
     task.spawn(RunFly)
 end
-```
